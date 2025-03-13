@@ -1,11 +1,11 @@
 {
   "compilerOptions": {
-    "outDir": "./type-script/dist",
-    "rootDir": "./type-script/src",
+    "outDir": "./dist",
+    "rootDir": "./src",
     "target": "es2023",
     "module": "NodeNext",
     "moduleResolution": "nodenext",
     "sourceMap": true
   },
-  "include": ["type-script/src/**/*.ts"]
+  "include": ["src/**/*.ts"]
 }
